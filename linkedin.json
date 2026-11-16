@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-12T15:57:06Z",
+  "updated": "2026-11-16T06:32:54Z",
   "profile": "https://www.linkedin.com/in/gregorrieser/",
   "posts": [
+    {
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7526778192599252992/",
+      "date": "2026-11-12",
+      "title": "Für die Lehrstelle Elektrotechnik (m/w) ab Sommer 2027 gibt es jetzt eine eigene Seite.",
+      "excerpt": "Dort steht alles auf einen Blick: was du lernst, was du verdienst und wie das Schnuppern läuft. Neu: Lehre mit Matura ist bei uns möglich.",
+      "text": "Für die Lehrstelle Elektrotechnik (m/w) ab Sommer 2027 gibt es jetzt eine eigene Seite. Dort steht alles auf einen Blick: was du lernst, was du verdienst und wie das Schnuppern läuft.\n\nNeu dazu: Lehre mit Matura ist bei uns möglich, kostenlos und staatlich gefördert.\n\nArbeitsgewand und Werkzeug bekommst du von uns. Internat und Kurse zahlen wir, und für ein gutes Zeugnis gibt es eine Prämie.\n\nAn die Eltern: Rufen Sie gern an. Ich zeige Ihnen, wo Ihr Kind lernen würde.",
+      "image": "https://raw.githubusercontent.com/rieser-gregor/rieser-website-feeds/main/images/7526778192599252992.jpg"
+    },
     {
       "url": "https://www.linkedin.com/feed/update/urn:li:activity:7525852451967541248/",
       "date": "2026-11-10",
@@ -41,14 +49,6 @@
       "excerpt": "Im Video zeig ich kurz die Station und wie die App funktioniert. Vielleicht interessant für alle, die gerade über ein E-Auto nachdenken.",
       "text": "Letzte Woche eine Wallbox installiert – go-e PRO CORE, ein österreichischer Hersteller.\n\nIm Video zeig ich kurz die Station und wie die App funktioniert. Vielleicht interessant für alle, die gerade über ein E-Auto nachdenken.\n\nWer eine Lademöglichkeit zu Hause braucht: einfach melden.",
       "image": "https://raw.githubusercontent.com/rieser-gregor/rieser-website-feeds/main/images/7505267885494325248.jpg"
-    },
-    {
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7503195601355051008/",
-      "date": "2026-09-08",
-      "title": "Projekt Update – drei Wochen später.",
-      "excerpt": "Der Estrich ist drin, der Trockenbauer hat Unterkonstruktion und Schattenfuge an der Decke fertig. Von meiner Seite: Decken verkabelt.",
-      "text": "Projekt Update – drei Wochen später.\n\nDer Estrich ist drin, der Trockenbauer hat Unterkonstruktion und Schattenfuge an der Decke fertig. Von meiner Seite: Decken verkabelt – Brandmelder und Beleuchtung.\n\nEin Detail aus dem Wohn- und Essbereich: Dort kommt eine Altholzdecke. Damit die Trafos für die LED-Leisten trotzdem erreichbar bleiben, haben wir eine kleine Revision eingeplant – eine Platte öffnen, tauschen, wieder zu.",
-      "image": "https://raw.githubusercontent.com/rieser-gregor/rieser-website-feeds/main/images/7503195601355051008.jpg"
     }
   ]
 }
